@@ -1,0 +1,36 @@
+# Overview of the analysis
+    
+    The purpose of this analysis is to help W. Avy analize temperature trends before they open their
+surf shop.  Specifically they are looking for the temperature trends for the months of June and
+December.  To do this, we were tasked with running two summary queries with Python, Pandas, and SQLalchemy 
+to retrieve the summary of weather trends for the two months in question. 
+
+# Results There is a bulleted list that addresses the three key differences in weather between June and December
+
+    After creating and running the two queries for the months of June and December, the summaries gave us information
+about the weather trends for the two months.  Though the months seemed similar, there were differences that showed up 
+between the months.  
+    
+    1)The mean temperatures for the months of June and December. Pictures one and two
+    in the images folder show the differences of average temperature for the two months. Picture one shows the average
+    temperature for June as 74.94 where as picture two shows the average temperature for December as 71.04.
+
+    2)The maximum temperature for the months of June and December. Pictures three and four show the the maximum temperatures for
+    the months of June and December. Though they are close to each other, the month of June had a higher max temperature
+    at 85 compared to December at 83.
+
+    3)The minimum temperature for June and December. Pictures five and six show the minimum temperatures for the months of 
+    June and December.  The month of June had a minimum temperature of 64 whereas December had a minimum temperature of 56.
+    Though the two months were earily close in maximum temperatures this was not the same for minimum temperatures.
+
+
+# Summary
+
+    After completeing the two summaries it is safe to say that the business for the ice cream and surf shop would be
+suitable year round. Though the months did have their differences, it is safe to assume the biggest difference of minimum
+temperature can attest to the temperatures at night compared to the maximum temperatures which could be during peak business hours.
+Two additional queries that can be run to help determine if business would be suitable year round is checking the months of June and 
+December for the number of rainy days for the months.  This will give us another insight to days that may not bring in as much
+business as the sunny days.  On the other side of the previous query we can run a summary for statistics of the number 
+of sunny days. This will give us insight to the days that would possibly bring in more business compared to rainy days that 
+may bring in less business.
